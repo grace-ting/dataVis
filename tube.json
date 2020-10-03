@@ -8,7 +8,7 @@
   "data": [
     {
       "name": "source_0",
-      "url": "londonBoroughs.json",
+      "url": "https://github.com/vega/vega-datasets/blob/master/data/londonBoroughs.json",
       "format": {
         "type": "topojson",
         "feature": "boroughs"
