@@ -8,7 +8,7 @@
   "data": [
     {
       "name": "source_0",
-      "url": "data/londonBoroughs.json",
+      "url": "https://github.com/vega/vega-datasets/blob/master/data/londonBoroughs.json",
       "format": {
         "type": "topojson",
         "feature": "boroughs"
@@ -24,7 +24,7 @@
     },
     {
       "name": "source_1",
-      "url": "data/londonCentroids.json",
+      "url": "https://github.com/vega/vega-datasets/blob/master/data/londonCentroids.json",
       "format": {
         "type": "json"
       },
